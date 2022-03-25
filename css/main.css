@@ -607,7 +607,7 @@ textarea, label {
   background-color: #1e2530;
   border-radius: 2px;
   height: auto;
-  min-height: 45px;
+  min-height: 30px;
   -webkit-box-align: center;
   -ms-flex-align: center;
   -webkit-align-items: center;
@@ -644,7 +644,7 @@ textarea, label {
 .progress .bar {
   background-color: #FA6862;
   border-radius: 10px;
-  height: 8px;
+  height: 5px;
   width: 0;
 }
 .progress .skill-lavel {
